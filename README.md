@@ -1,70 +1,59 @@
-# Syed Muhammad Ali — Developer Portfolio
+# Sakshi Wankhade — Developer Portfolio
 
-A modern, full-featured personal portfolio built with **React + TypeScript + Tailwind CSS**, showcasing my projects, skills, experience, and certifications as a Full Stack & Mobile App Developer.
+Welcome to my personal developer portfolio! 👋
 
-**Live:** [ali-portfolio-nine.vercel.app](https://ali-portfolio-nine.vercel.app)
+I am **Sakshi Wankhade**, a Computer Applications postgraduate student interested in Full Stack Web Development and Software Development. This portfolio showcases my technical skills, projects, education, and certifications.
 
----
+## 🚀 Features
 
-## Features
+* Modern and responsive user interface
+* Built with React and TypeScript
+* Styled using Tailwind CSS
+* About Me and Education sections
+* Technical Skills and Projects showcase
+* Certifications and Achievements
+* Contact section with email functionality
 
-- Lightning-fast performance with **Vite** bundler
-- Fully responsive UI with **Tailwind CSS** + **shadcn/ui**
-- Smooth scroll-reveal animations with **Framer Motion**
-- Post-build prerendering (headless Chrome) so search engines and social crawlers get real rendered content, not an empty shell
-- About, Experience, Skills, Projects, Education, Certificates, and Contact sections
-- Working contact form (FormSubmit) with a Gmail-compose fallback
+## 🛠️ Tech Stack
 
----
+* **Frontend:** React.js, TypeScript, HTML, CSS, JavaScript
+* **Styling:** Tailwind CSS, shadcn/ui
+* **Tools:** Git, GitHub, VS Code
+* **Backend Knowledge:** Node.js, Express.js
+* **Database Knowledge:** MongoDB, SQL
 
-## Tech Stack
+## 📂 Featured Projects
 
-| Tool                              | Purpose                        |
-| --------------------------------- | ------------------------------ |
-| React + TypeScript                | Frontend framework             |
-| Vite                              | Build tool                     |
-| Tailwind CSS + shadcn/ui          | Styling & UI components        |
-| Framer Motion                     | Animations                     |
-| React Router                      | Routing                        |
-| TanStack Query                    | Data fetching                  |
-| Vercel Analytics / Speed Insights | Usage & performance monitoring |
+### 1. Wanderlust — Airbnb-Inspired Web Application
 
----
+A full-stack web application where users can explore property listings, view locations on maps, and share reviews.
 
-## Getting Started
+**Technologies:** Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary, MapTiler API
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/syedmuhammadali-dev/Portfolio.git
+### 2. Smart Wheel Theft Detection System
 
-# 2. Navigate to the folder
-cd Portfolio
+An IoT-based academic project designed to detect suspicious wheel movement using sensors and alert mechanisms.
 
-# 3. Install dependencies
-npm install
+**Technologies:** Arduino, NodeMCU, IR Sensors, HC-05 Bluetooth, Android Studio
 
-# 4. Run the dev server
-npm run dev
-```
+## 🎓 Education
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+* **Master of Computer Applications (MCA)** — Pursuing
+* **Bachelor of Computer Applications (BCA)** — Completed
+* **Higher Secondary Certificate (HSC)**
+* **Secondary School Certificate (SSC)**
 
-`npm run build` runs the production build and then prerenders the page with headless Chrome; it needs a local Chrome/Edge install (or falls back gracefully if none is found).
+## 📜 Certifications
 
----
+* Python for Data Science, AI and Development
+* Java and Software Engineering
+* Cyber Security
+* AI and Green Skills
+* Cloud Computing
 
-## npm Packages
+## 📬 Connect With Me
 
-- [**gdrive-db**](https://www.npmjs.com/package/gdrive-db) — A beginner-friendly database-like storage SDK powered by the end user's own Google Drive. Not a replacement for MongoDB/PostgreSQL/Firebase — built for learning, prototypes, demos, and small frontend projects.
-- [**React-Dev-Footer-pkg**](https://github.com/syedmuhammadali-dev/React-Dev-Footer-pkg) — A simple, reusable React footer component published to npm.
+* **GitHub:** [Sakshi12345770](https://github.com/Sakshi12345770)
+* **Portfolio Repository:** [sakshi-wankhade-portfolio](https://github.com/Sakshi12345770/sakshi-wankhade-portfolio)
 
-All published packages: [npmjs.com/~syedmuhammadali-dev](https://www.npmjs.com/~syedmuhammadali-dev)
-
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-muhammed-ali/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://ali-portfolio-nine.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/syedmuhammadali-dev)
-[![npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/~syedmuhammadali-dev)
+Thank you for visiting my portfolio! I am eager to learn new technologies, improve my development skills, and explore opportunities in software development.
