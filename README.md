@@ -17,7 +17,7 @@ I am **Sakshi Wankhade**, a Computer Applications postgraduate student intereste
 ## 🛠️ Tech Stack
 
 * **Frontend:** React.js, TypeScript, HTML, CSS, JavaScript
-* **Styling:** Tailwind CSS, shadcn/ui
+* **Styling:** Tailwind, Css
 * **Tools:** Git, GitHub, VS Code
 * **Backend Knowledge:** Node.js, Express.js
 * **Database Knowledge:** MongoDB, SQL
@@ -38,7 +38,6 @@ An IoT-based academic project designed to detect suspicious wheel movement using
 
 ## 🎓 Education
 
-* **Master of Computer Applications (MCA)** — Pursuing
 * **Bachelor of Computer Applications (BCA)** — Completed
 * **Higher Secondary Certificate (HSC)**
 * **Secondary School Certificate (SSC)**
