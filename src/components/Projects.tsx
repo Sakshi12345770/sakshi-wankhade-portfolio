@@ -43,8 +43,8 @@ const projects = [
       "A frontend project inspired by Spotify, designed to practice modern web development and create a responsive music streaming interface.",
     image: "/project/spotify.png",
     tech: ["HTML5", "CSS3", "JavaScript"],
-    github: "https://github.com/Sakshi12345770",
-    live: "",
+    github: "https://github.com/Sakshi12345770/spotify-frontend",
+    live: "https://sakshi12345770.github.io/spotify-frontend/spotify.html",
   },
 ];
 
