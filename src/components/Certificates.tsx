@@ -38,11 +38,11 @@ const certificates: Certificate[] = [
     primaryActionLabel: "View Certificate",
   },
   {
-    title: "Introduction to Python",
-    issuer: "Infosys Springboard",
-    date: "July 2025",
-    preview: "/certifications/introduction-to-python.png",
-    link: "/certifications/introduction-to-python.pdf",
+    title: "Python For Data Science",
+    issuer: "Reliance Foundation x Skill India Digital(180 Hours)",
+    date: "Oct 2026",
+    preview: "/certifications/python.png",
+    link: "/certifications/python.pdf",
     primaryActionLabel: "View Certificate",
   },
   {
@@ -51,6 +51,14 @@ const certificates: Certificate[] = [
     date: "May 2025",
     preview: "/certifications/ai-first-software-engineering.png",
     link: "/certifications/ai-first-software-engineering.pdf",
+    primaryActionLabel: "View Certificate",
+  },
+  {
+    title: "Digital Productivity With AI",
+    issuer: "UNICEF - YuWaah! / Passport to Earning",
+    date: "Oct 2026",
+    preview: "/certifications/digital.png",
+    link: "/certifications/digital.pdf",
     primaryActionLabel: "View Certificate",
   },
   {
@@ -85,14 +93,6 @@ const certificates: Certificate[] = [
   link: "/certifications/skill-traning.jpeg",
   primaryActionLabel: "View Certificate",
 },
-  {
-    title: "HR Workshop — Banking, Finance and Insurance",
-    issuer: "SKILLSERV — Bajaj Finserv Limited",
-    date: "February 2026",
-    preview: "/certifications/hr-workshop.png",
-    link: "/certifications/hr-workshop.pdf",
-    primaryActionLabel: "View Certificate",
-  },
 ];
 
 const Certificates = () => {
