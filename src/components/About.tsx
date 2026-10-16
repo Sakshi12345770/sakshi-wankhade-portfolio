@@ -1,6 +1,6 @@
 
 import { motion } from "framer-motion";
-import sakshiImage from "./sakshi.png.jpeg";
+import sakshiImage from "./sakshi.png";
 
 const About = () => {
   return (
